@@ -12,11 +12,11 @@ Simply download files from this repository as ZIP and unpack them on your comput
 
 ## Controles
 
-Navigate by using up and down arrowkeys
+Navigate by using up and down arrowkeys/
 
 ## Built
 
-Program made using Java and JavaFX
+Program made using C#/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
