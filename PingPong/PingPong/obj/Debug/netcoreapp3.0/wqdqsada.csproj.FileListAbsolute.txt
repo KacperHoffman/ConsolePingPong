@@ -1,0 +1,11 @@
+C:\Users\Kacper\source\repos\wqdqsada\wqdqsada\bin\Debug\netcoreapp3.0\wqdqsada.exe
+C:\Users\Kacper\source\repos\wqdqsada\wqdqsada\bin\Debug\netcoreapp3.0\wqdqsada.deps.json
+C:\Users\Kacper\source\repos\wqdqsada\wqdqsada\bin\Debug\netcoreapp3.0\wqdqsada.runtimeconfig.json
+C:\Users\Kacper\source\repos\wqdqsada\wqdqsada\bin\Debug\netcoreapp3.0\wqdqsada.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\wqdqsada\wqdqsada\bin\Debug\netcoreapp3.0\wqdqsada.dll
+C:\Users\Kacper\source\repos\wqdqsada\wqdqsada\bin\Debug\netcoreapp3.0\wqdqsada.pdb
+C:\Users\Kacper\source\repos\wqdqsada\wqdqsada\obj\Debug\netcoreapp3.0\wqdqsada.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\wqdqsada\wqdqsada\obj\Debug\netcoreapp3.0\wqdqsada.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\wqdqsada\wqdqsada\obj\Debug\netcoreapp3.0\wqdqsada.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\wqdqsada\wqdqsada\obj\Debug\netcoreapp3.0\wqdqsada.dll
+C:\Users\Kacper\source\repos\wqdqsada\wqdqsada\obj\Debug\netcoreapp3.0\wqdqsada.pdb
